@@ -1,0 +1,4 @@
+.ipynb_checkpoints/
+_bernstein.c
+_bernstein.o
+lsh_trainer.py
